@@ -1,13 +1,13 @@
 # Image-encryption-and-decryption using rubik cube
 
-✔ IMAGE ENCRYPTION DECRYPTION
+# ✔ IMAGE ENCRYPTION DECRYPTION
 
     An Image Encryption Decryption is an image processing application created in python with tkinter gui and OpenCv library.
     In this application user can select an image and can encrypt that image to gray scale image and can even decrpyt also.
     Also after encrypting and decrypting user can also save the edited image anywhere in the local system.
     Also there is option to reset to the original image.
 
-REQUIREMENTS :
+# REQUIREMENTS :
 
     python 3
     os module
@@ -19,7 +19,7 @@ REQUIREMENTS :
     numpy
     random
 
-HOW TO Use it :
+# HOW TO Use it :
 
     User just need to download the file, and run the image_encryption_decryption.py, on local system.
     After running a GUI window appears, where user needs to choose an image file using CHOOSE button on the top right corner.
@@ -29,11 +29,11 @@ HOW TO Use it :
     Also there is a RESET button, clicking on which resets the edited image to original format.
     Also there is exit button, clicking on which we get a exit dialog box asking the permission to exit.
 
-Purpose :
+# Purpose :
 
     This scripts helps us to easily encrypt any image for security purpose and can even decrypt also.
 
-Compilation Steps :
+# Compilation Steps :
 
     Install tkinter, PIL, numpy, cv2, os, random
     After that download the code file, and run image_encryption_decryption.py on local system.
